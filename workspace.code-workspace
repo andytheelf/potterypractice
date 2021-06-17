@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "potterypractice",
+			"path": "."
+		},
+		{
+			"name": "client",
+			"path": "..\\UTA-VIRT-BO-FSF-PT-03-2020-U-B\\22-State\\02-Challenge\\Master\\client"
+		},
+		{
+			"name": "server",
+			"path": "..\\UTA-VIRT-BO-FSF-PT-03-2020-U-B\\22-State\\02-Challenge\\Master\\server"
+		}
+	],
+	"settings": {}
+}
